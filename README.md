@@ -1,5 +1,10 @@
 # docker-openresty - Docker tooling for OpenResty
 
+**LodeStreams**: with aditional modules:
+
+- https://github.com/openresty/replace-filter-nginx-module.git
+- https://github.com/openresty/sregex.git
+
 ## Supported tags and respective `Dockerfile` links
 
 - [`alpine`, (*alpine/Dockerfile*)](https://github.com/openresty/docker-openresty/blob/master/alpine/Dockerfile)
